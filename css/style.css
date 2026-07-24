@@ -1,0 +1,41 @@
+body{
+    background: linear-gradient(135deg,#aa18c1d7,#d071f6);
+}
+.card{
+    border-radius:20px;
+}
+h2{
+    font-weight:bold;
+}
+.btn-primary{
+    background:#660b6d;
+    border:none;
+}
+
+.btn-primary:hover{
+    background:#441043;
+}
+.card img{
+    height:300px;
+    object-fit:cover;
+}
+
+.card{
+    transition:0.3s;
+}
+
+.card:hover{
+    transform:translateY(-8px);
+}
+h1,h2,h3,h4,h5{
+    font-family: 'Playfair Display', serif;
+}
+body{
+    font-family: Arial, sans-serif;
+}
+body{
+    color: #2f0a31;
+}
+.home-title{
+    color: #3c0f4f;
+}
